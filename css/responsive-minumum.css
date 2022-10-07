@@ -1,0 +1,43 @@
+@media only screen and (min-width:320px) {
+    #hero-heading {
+        font-size: 3rem;
+    }
+}
+
+
+@media only screen and (min-width:480px) {}
+
+
+@media only screen and (min-width:767px) {
+    #hero-heading {
+        font-size: 4.5rem;
+    }
+
+    .sec-06 {
+        height: 50vh;
+    }
+}
+
+
+@media only screen and (min-width:991px) {
+    .trns-lg-lt {
+        max-width: 75%;
+        margin-top: -100px !important;
+        margin-left: -50px !important;
+    }
+
+    .trns-lg-rt {
+        max-width: 75%;
+        margin-bottom: -100px !important;
+        margin-right: -50px !important;
+        margin-left: auto;
+    }
+
+    .sec-06 {
+        height: 40vh;
+    }
+}
+
+
+
+@media only screen and (min-width: 1200px) {}
